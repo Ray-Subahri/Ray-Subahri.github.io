@@ -1,8 +1,17 @@
 # Phillip Price 
 
+## "In my life, as I was making my way, I always asked the question, 'Am I the most powerful person in the room?' And the answer needed to be 'Yes'." 
+
 Phillip Price is a fictional Character played by Michael Cristofer
 in the television series "Mr. Robot". Price is the CEO of E Corp,
 the largest multi-national conglomerate in the world.
-In his first appearance he seems humble and indecisive.
-His thirst for always "being the most powerful man in the room"
-however is revealed later in the series. 
+Being polite and complementary to many people he makes the impression of a
+nice, in times maybe even insecure man.
+His thirst for power and lack of empathy towards other people is revealed later in the series. 
+Character Traits
+* polite
+* courteous
+* ruthless
+* unempathic
+* greedy for power
+
